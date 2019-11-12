@@ -1,0 +1,17 @@
+Jasmine - framework form protractor test, test are created from two blocks (describe and it)
+
+Describe - defines test suite 
+It - stand for test case
+Spec - Test File 
+Every spec should have describe and it block 
+Configuration file - spec file names (this configuration file is going to the spec files and running them)
+
+
+describe("A suite", function(){
+    it("contains spec with an expectation", function(){
+        expect(true).toBe(true)
+    })
+} )
+
+
+

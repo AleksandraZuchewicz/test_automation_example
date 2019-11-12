@@ -1,0 +1,18 @@
+Protractor is used for automation test for Angular applications via real word browser. 
+Protractor is build on the top of WebDriwerJS and nodeJS 
+
+we should be aware that webDriwer and nodejs are asynchronous by itself, but since WebdruwerJS is based on Promise, it in 
+it in turn is wrapped around what is called as Webdriver constrol flow. 
+
+Protractor adaptation: 
+Protractor adapts Jasmine so that each spec automatically waits until the constrol flow is empty before exiting
+
+Jasmine expectation are alse adapt to understand promises. Thats why this line works - the code actually adds 
+an exception task to the control flow, which will run after the other tasks 
+
+so, promise manager are made our debugging to not happen, since this expect us to fulfil an promise before moving forward. 
+
+in future release neither promise manager or control flow are going to there with Protractor or webdrower, 
+since control flow is set to be removed, instread of thre control flow you can synchronize your commands with promise chaining 
+ or the upcoming ES7 featur async/aait 
+

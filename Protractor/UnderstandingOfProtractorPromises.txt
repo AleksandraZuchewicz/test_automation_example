@@ -1,0 +1,9 @@
+Javascript is asynchronous:
+every javascript step return promise,
+1. pending 2.resolved 3. rejected 
+synchronous: you will move to the next step only after promise for the current step is either resolb=ve or rejected 
+Asynchronous: Javascript moves to the next step even if a promise is pending 
+90% (all the actions we perform in the of protractor API will not move to the next step until the promise is resolved 
+if you want to retrieve anything from browser - then that particular functionality related methods have not support of promise resolving 
+
+javascript element in protractor test are always asynchronous 
