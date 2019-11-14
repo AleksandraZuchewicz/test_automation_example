@@ -10,6 +10,9 @@ describe("Actions Demo", function () {
         element.all(by.css("a[ng-href='London'")).click()
         browser.getAllWindowHandles().then(function () {
             browser.switchTo().window(handle[1])
+            browser.getTitle().then(function (title) {
+                console.log(title)
+            })
         })
 
 
