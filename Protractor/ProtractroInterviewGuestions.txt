@@ -1,0 +1,95 @@
+Question 1. What Is Protractor?
+Question 2. Why Protractor And Not Selenium With Any Other Language Like Java?
+Question 3. What Are The Locators In Protractor?
+Question 4. What Are Element Finder And Element Array Finder?
+Question 5. Can I Use Protractor For Non Angularjs Apps?
+Question 6. What Are Protractor, Jasmine, And Mocha? How Can We Use Them?
+Question 7. How To Assert Something In Protractor?
+Question 8. Explain How You Can Set Up Protractor In Your Project?
+Question 9. Can You Walk Me Through A Simple Set Up Of Protractor?
+Question 10. I Do Not Want To Start The Selenium Server Every Time. How Can I Overcome This?
+Question 11. What Does Ignore Synchronization Do?
+Question 12. What Frameworks Can Be Used With Protractor?
+Question 13. How Can You Do Reporting In Protractor?
+Question 14. Can I Use Protractor With Typescript?
+Question 15. How Can I Add Custom Locator For Protractor?
+Question 16. What Is The Default Time For A Protractor With Jasmine Spec To Fail And Can I Change It?
+Question 17. How To Run Multiple Specs In Protractor?
+Question 18. Select A Checkbox Using Protractor?
+Question 19. What Is The Good Reporter In Market For Protractor?
+Question 20. What Is Group Index In Xpath?
+Question 21. How Do You Handle A Text Area Element?
+Question 22. How To Handle The Installation In Protractor (select Has Maven For Installations)?
+Question 23. How Can We Find All The Links On A Web Page?
+Question 24. How To Verify Tool Tip Text Using Protractor?
+Question 25. What Are The Different Mouse Actions That Can Be Performed?
+Question 26. Write A Code To Wait For An Alert To Appear?
+Question 27. Write A Code To Wait For A Particular Element To Be Visible On A Page Using Protractor?
+Question 28. Can Protractor Handle Windows Based Pop Up?
+Question 29. Return Javascript Execution Result?
+Question 30. What Are The Advantages Of Automation Framework In Protractor?
+Question 31. What Is An Xpath?
+Question 32. What Is The Order Of Fastest Browser Implementation For Protractor?
+Question 33. What Are The Prerequisites To Run Protractor?
+Question 34. What Are The Web Pages Elements In Web Applications?
+Question 35. What Is The Difference Between Browsers. Close () And Browser. Quit () Command?
+Question 36. What Is Element Finder?
+Question 37. Test Case Failed Saying "element Not Visible", But When Analyzed Manually Element Is Visible? How To Handle It?
+Question 38. Explain What Is Time-out Test In Protractor?
+Question 39. How To Wait For Element To Be Available In Angular Applications?
+Question 40. What Is The Difference Between "get" And "navigate" To Open A Web Page In Protractor?
+Question 41. Difference Between Flex And Flash Application?
+
+
+Question 1) How to use Cucumber with Protractor?
+Question 2) What is difference between WebDriver click() and JavaScript click()?
+Question 3) How to select an option from dropdown in Protractor e2e testing?
+Question 4) How to set default browser window size in Protractor/WebdriverJS?
+Question 5) How to getText on an input in protractor?
+Question 6) How to test if an element has class or not in Protractor?
+Question 7) How to create and manipulate promises in Protractor?
+Question 8) How can I use command line arguments in Angularjs Protractor?
+Question 9) How can I get the current url using protractor?
+Question 10) What is browser.ignoreSynchronization in protractor?
+Question 11) List the different mouse actions that can be performed using protractor?
+Question 12) List major difference between Protractor vs Selenium?
+Question 13) What is Yeoman?
+Question 14) What is Grunt?
+Question 15) What is Jasmine?
+Question 16) What is Mocha?
+Question 17) List Behavior-driven development (BDD) test frameworks supported By Protractor?
+Question 18) What is SPA Application?
+Question 19) Enlist few locators available in Protractor?
+Question 20) What is use browser.refresh in Protractor?
+Question 21) How can we set value to prompt Alert in Protractor?
+Question 22) How to cancel and accept Alert in Protractor?
+Question 23) How to install Protractor on windows?
+Question 24) Enlist few features of Protractor?
+Question 25) What is Protractor?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
